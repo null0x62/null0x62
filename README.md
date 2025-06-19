@@ -60,14 +60,6 @@ Axum · Tokio · SQLx · WASM · Rust CLI tools
 
 ---
 
-## 📡 Contact Me in the Metaverse
-
-- 🧙‍♂️ [https://null0x62.vercel.app/](https://null0x62.vercel.app/)  
-- 🐦 [twitter.com/nulleve1](https://x.com/nulleve1)  
-- 📬 dongshengliu98@gmail.com
-
----
-
 > _"Any sufficiently advanced technology is indistinguishable from magic."_  
 > — Arthur C. Clarke
 
